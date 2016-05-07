@@ -1,0 +1,22 @@
+[Too Many Ways]
+
+This Android App compiles web resources, tutorials, news for computer science students and professionals. It displays 5 different basic study fields in computer science learning, based on given user experience in IT. 
+
+If the user has developed for less than 2 years, it displays a suitable menu for the user xp with introductory links. If the user has developed for more than 2 years, it displays an advanced menu list, with more complex resources. 
+
+When user clicks on an item/link from menu lists, a web resource (URL), makes a request to the server and loads the website URL content into the app browser for user reading/viewing.
+
+This app browser contains two buttons. A simple "Back" button to return to previous activity and a "Share" button to share the actual browser content with any of the listening apps on your device.
+
+This app will be updgradeable and mantained after the course for better performance and functionality.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+App Android que compila recursos web tales como tutoriales, noticias, videos para estudiantes y profesionales de IT. Muestra 5 campos diferentes de estudio de las ciencias de la computación, basadas en la experiencia del usuario en TI.
+
+Si la experiencia del usuario es mayor de 2 años, se muestra un menu adaptado a la experiencia de este con links introductorios. Si la experiencia del usuario es mayor de dos años se mostrará un menú avanzado, con recursos más complejos.
+
+Cuando el usuario hace click sobre cualquiera de los items(links) del menú, se abrirá un recurso relativo al campo de estudio en el navegador propio de la app, que incluye un boton de navegación/retorno "Back", y un botón para compartir la pestaña actual con cualquier app a la escucha.
+
+Esta app será actualizable y mantenida tras el curso para mejor rendimiento y funcionalidad.
+
