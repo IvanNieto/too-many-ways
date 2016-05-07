@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Too\nMany\nWays</string>
+    <string name="about">Acerca De</string>
+    <string name="about_txt">        \n\n[Too Many Ways]         \n\n_______________________         \n\nApp Android que compila recursos web tales como tutoriales, noticias, videos... de 5 campos de estudio de las ciencias de la computación, basadas en la experiencia del usuario.                  \n\nSi la experiencia del usuario es mayor de 2 años, se muestra un menu adaptado a la experiencia de este con links introductorios. Si la experiencia del usuario es mayor de dos años se mostrará un menú avanzado, con recursos más complejos.                  \n\nCuando el usuario hace click sobre cualquiera de los items(links) del menú, se abrirá un recurso relativo al campo de estudio en el navegador propio de la app, que incluye un boton de navegación/retorno "Back", y un botón para compartir la pestaña actual con cualquier app a la escucha.                  \n\nEsta app será actualizable y mantenida tras el curso para mejor rendimiento y funcionalidad.         \n\n_______________________         \n\nContacto:         \n\nivan.n.s@tuta.io</string>
+    <string name="app_name_sub">{ para aprender ciencias de la computación };</string>
+    <string name="back">Atras</string>
+    <string name="coverbg">Fondo</string>
+    <string name="go">Siguiente</string>
+    <string name="intro">Obten los mejores recursos\npara 5 campos de estudio básicos en las ciencias de la computación.\nNovedades, Tutoriales, Videos, y mucho más.\n\nPrimero. Necesitamos que insertes tu experiencia en TI.\npara mostrar el contenido apropiado para ti.</string>
+    <string name="question_dev">¿Cuantos años tienes de experiencia en TI?</string>
+    <string name="share">Compartir</string>
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.rudolph.toomanyways">
+
+    <!-- Gives permissions to access to Internet -->
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!-- Application definition -->
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/GeneralNoTitle"
+        tools:ignore="AllowBackup,GoogleAppIndexingWarning">
+
+
+        <!-- Main Activity -->
+        <activity android:name=".ActMainLanding">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- Settings Activity -->
+        <activity android:name=".ActSettings" />
+        <!-- Menu Begginer Activity -->
+        <activity android:name=".ActMenuBeg"/>
+        <!-- Menu Advanced Activity -->
+        <activity android:name=".ActMenuAdv"/>
+        <!-- WebView Activity -->
+        <activity android:name=".ActWebView"/>
+        <!-- About Activity -->
+        <activity android:name=".ActAbout"/>
+
+
+    </application>
+
+</manifest>

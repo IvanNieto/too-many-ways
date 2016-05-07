@@ -1,0 +1,42 @@
+<resources>
+    <!-- DE USO RECURRENTE -->
+    <!-- ======================== -->
+    <!-- nombre app -->
+    <string name="app_name">Too\nMany\nWays</string>
+    <string name="app_name_sub">{ to learn computer science };</string>
+
+    <!-- DE USO LOCAL -->
+    <!-- ======================== -->
+
+    <!-- ActMainLanding -->
+    <string name="comein"> <u>></u> </string>
+    <string name="coverbg">Background</string>
+    <string name="go">Next</string>
+
+
+    <!-- SettingsActivity -->
+    <string name="intro">Get the best resources \nfor 5 basic study fields in computer science.\nNews, Tutorials, Videos, and many more. \n\nFirst. We need you to set your experience in IT \nto display the appropriate content for you.</string>
+    <string name="less"><b>&lt;</b></string>
+    <string name="more"><b>&gt;</b></string>
+    <string name="question_dev">How experienced are you in IT?\n(In Years)</string>
+
+    <!-- WebView -->
+    <string name="back">Back</string>
+    <string name="share">Share</string>
+    <string name="about">About</string>
+
+    <!-- ActAbout -->
+    <string name="about_txt">
+        \n\n[Too Many Ways]
+        \n\n_______________________
+        \n\nThis Android App compiles web resources, tutorials, news... in 5 different basic study fields in computer science learning, based on given user experience as developer.
+        \n\nIf the user has developed for less than 2 years, it displays a suitable menu for the user xp with introductory links. If the user has developed for more than 2 years, it displays an advanced menu list, with more complex resources.
+        \n\nWhen user clicks on an item/link from menu lists, a web resource (URL), makes a request to the server and loads the website URL content into the app browser for user reading/viewing.
+        \n\nThis app browser contains two buttons. A simple "Back" button to return to previous activity and a "Share" button to share the actual browser content with any of the listening apps on your device.
+        \n\nThis app could be updgradeable and mantained after the course for better performance and functionality.
+        \n\n_______________________
+        \n\nContact:
+        \n\nivan.n.s@tuta.io
+    </string>
+
+</resources>

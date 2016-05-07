@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <!-- Default palette -->
+    <color name="colorPrimary">#f44336</color>
+    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimarylight">#FFCDD2</color>
+    <color name="colorTextPrimary">#212121</color>
+    <color name="colorTextSecondary">#727272</color>
+    <color name="colorDivider">#B6B6B6</color>
+    <color name="colorTextIcons">#FFFFFF</color>
+    <color name="colorAccent">#303F9F</color>
+
+    <!-- App palette -->
+    <color name="white">#FFF</color>
+    <color name="black">#000</color>
+
+</resources>

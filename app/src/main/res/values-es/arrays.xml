@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Arrays -->
+    <string-array name="arrayMenuBeg">
+        <item>Fundamentos de Programación</item>
+        <item>Android Dev</item>
+        <item>Gestión de Bases de Datos</item>
+        <item>Administración de Sistemas</item>
+        <item>Desarrollo Web</item>
+    </string-array>
+
+    <string-array name="arrayMenuAdv">
+        <item>Programación Avanzada</item>
+        <item>Gestión de BD Avanzada</item>
+        <item>Administración de Sistemas</item>
+        <item>Desarrollo Web</item>
+        <item>Arquitectura del Software</item>
+    </string-array>
+
+    <string-array name="urlsBeg">
+        <item>https://www.khanacademy.org/computing/computer-programming/programming/intro-to-programming/v/programming-intro</item>
+        <item>https://www.udacity.com/course/android-development-for-beginners--ud837</item>
+        <item>http://databases.about.com/od/databasetraining/</item>
+        <item>https://serverfault.com/questions/9766/what-a-beginner-should-know-learn-for-sysadmin-job</item>
+        <item>https://www.codeproject.com/Articles/31017/Beginner-s-Walk-Web-Development</item>
+    </string-array>
+
+    <string-array name="urlsAdv">
+        <item>http://www.youtube.com/watch?v=OhZuTE3N090</item>
+        <item>http22://www.youtube.com/watch?v=_HTAolZ0_SM</item>
+        <item>https://www.mentalcakes.org/web190/webproject/sysadmin_advanced/index.html</item>
+        <item>http://learn.shayhowe.com/advanced-html-css/</item>
+        <item>http://www.sei.cmu.edu/architecture/</item>
+    </string-array>
+</resources>
