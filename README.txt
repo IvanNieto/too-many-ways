@@ -5,6 +5,9 @@ Author: Ivan Nieto
 Date: 28/04/2016
 Version: 1.0
 
+> ### UPDATE :06/06/2016
+> - Documentation and bug fixing as soon as I have a little time after exams. Not a dead project.
+
 Minimum requirements:
 - Android SDK Version required: 15 (Android 4.0.3 IceCreamSandwich) 
 - Android SDK for best performance: 23 (Android 6.0 Marshmallow)
